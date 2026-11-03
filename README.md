@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 # HARSH RAJ RANJAN
 
@@ -44,11 +44,11 @@ Passionate about **understanding how systems work, finding vulnerabilities, and 
 
 **Tools**
 
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort-F5A800?style=flat-square&logoColor=white)
-![CyberChef](https://img.shields.io/badge/CyberChef-222222?style=flat-square&logoColor=white)
+<img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white">
+<img src="https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white">
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white">
+<img src="https://img.shields.io/badge/Snort-F5A800?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/CyberChef-222222?style=flat-square&logoColor=white">
 
 </td>
 <td width="50%" valign="top">
@@ -65,13 +65,13 @@ Passionate about **understanding how systems work, finding vulnerabilities, and 
 
 **Tools**
 
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)
-![Gobuster](https://img.shields.io/badge/Gobuster-111111?style=flat-square&logoColor=white)
-![ffuf](https://img.shields.io/badge/ffuf-111111?style=flat-square&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-111111?style=flat-square&logoColor=white)
-![Hashcat](https://img.shields.io/badge/Hashcat-111111?style=flat-square&logoColor=white)
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/Gobuster-111111?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/ffuf-111111?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/Hydra-111111?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/Hashcat-111111?style=flat-square&logoColor=white">
 
 </td>
 </tr>
@@ -83,41 +83,47 @@ Passionate about **understanding how systems work, finding vulnerabilities, and 
 
 ### 💻 Development
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</p>
 
 ### 🔐 Cryptography
 
-![AES-256-GCM](https://img.shields.io/badge/AES--256--GCM-1F6FEB?style=flat-square&logoColor=white)
-![RSA](https://img.shields.io/badge/RSA-1F6FEB?style=flat-square&logoColor=white)
-![ECC](https://img.shields.io/badge/ECC-1F6FEB?style=flat-square&logoColor=white)
-![Diffie-Hellman](https://img.shields.io/badge/Diffie--Hellman-1F6FEB?style=flat-square&logoColor=white)
-![SHA-2/SHA-3](https://img.shields.io/badge/SHA--2%2FSHA--3-1F6FEB?style=flat-square&logoColor=white)
-![Digital Signatures](https://img.shields.io/badge/Digital_Signatures-1F6FEB?style=flat-square&logoColor=white)
-![Argon2](https://img.shields.io/badge/Argon2-1F6FEB?style=flat-square&logoColor=white)
-![ECDHE](https://img.shields.io/badge/ECDHE-1F6FEB?style=flat-square&logoColor=white)
-![X25519](https://img.shields.io/badge/X25519-1F6FEB?style=flat-square&logoColor=white)
-![HKDF](https://img.shields.io/badge/HKDF-1F6FEB?style=flat-square&logoColor=white)
-![TLS 1.3](https://img.shields.io/badge/TLS_1.3-1F6FEB?style=flat-square&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/AES--256--GCM-1F6FEB?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/RSA-1F6FEB?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/ECC-1F6FEB?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/Diffie--Hellman-1F6FEB?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/SHA--2%2FSHA--3-1F6FEB?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/Digital_Signatures-1F6FEB?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/Argon2-1F6FEB?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/ECDHE-1F6FEB?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/X25519-1F6FEB?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/HKDF-1F6FEB?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/TLS_1.3-1F6FEB?style=flat-square&logoColor=white">
+</p>
 
 ---
 
 ## 🧪 TryHackMe
 
-![Top 1%](https://img.shields.io/badge/TOP%201%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-![150+ Rooms](https://img.shields.io/badge/150%2B%20Rooms-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+<img src="https://img.shields.io/badge/TOP%201%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white">
+<img src="https://img.shields.io/badge/150%2B%20Rooms-212C42?style=for-the-badge&logo=tryhackme&logoColor=white">
 
 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VKX4DAYUSR.pdf">
-  <img src="https://img.shields.io/badge/✓%20Security%20101-2EA44F?style=flat-square" alt="Security 101">
+  <img src="https://img.shields.io/badge/✓%20Security%20101-2EA44F?style=flat-square">
 </a>
 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-GZ6RNB8UUG.pdf">
-  <img src="https://img.shields.io/badge/✓%20SOC%20Level%201-2EA44F?style=flat-square" alt="SOC Level 1">
+  <img src="https://img.shields.io/badge/✓%20SOC%20Level%201-2EA44F?style=flat-square">
 </a>
-![Jr Penetration Tester](https://img.shields.io/badge/✓%20Jr%20Penetration%20Tester-2EA44F?style=flat-square)
+<img src="https://img.shields.io/badge/✓%20Jr%20Penetration%20Tester-2EA44F?style=flat-square">
+
+</div>
 
 ---
 
@@ -147,3 +153,6 @@ Passionate about **understanding how systems work, finding vulnerabilities, and 
 ### `Learn. Break. Understand. Secure.`
 
 </div>
+
+
+why hyperlinks in the icons
