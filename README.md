@@ -153,6 +153,3 @@ Passionate about **understanding how systems work, finding vulnerabilities, and 
 ### `Learn. Break. Understand. Secure.`
 
 </div>
-
-
-why hyperlinks in the icons
