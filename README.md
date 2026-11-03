@@ -123,8 +123,6 @@ Passionate about **understanding how systems work, finding vulnerabilities, and 
 </a>
 <img src="https://img.shields.io/badge/✓%20Jr%20Penetration%20Tester-2EA44F?style=flat-square">
 
-</div>
-
 ---
 
 ## 🚀 Featured Project
